@@ -126,24 +126,3 @@ export default function Home() {
     </main>
   );
 }
-
-// =============================
-// 4️⃣ TAILWIND SETUP (REQUIRED)
-// Run these commands after project creation:
-// npx create-next-app@latest
-// Then install Tailwind:
-// npm install -D tailwindcss postcss autoprefixer
-// npx tailwindcss init -p
-
-// Add Tailwind to globals.css
-// @tailwind base;
-// @tailwind components;
-// @tailwind utilities;
-
-// =============================
-// 🚀 DEPLOY TO VERCEL
-// 1. Push this project to GitHub
-// 2. Login to vercel.com
-// 3. Import project
-// 4. Click Deploy
-// =============================
